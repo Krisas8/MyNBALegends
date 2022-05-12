@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MyNBALegends/static/css/main.24a6d353.css",
+    "main.css": "/MyNBALegends/static/css/main.76871125.css",
     "main.js": "/MyNBALegends/static/js/main.b7549b2c.js",
     "index.html": "/MyNBALegends/index.html",
-    "main.24a6d353.css.map": "/MyNBALegends/static/css/main.24a6d353.css.map",
+    "main.76871125.css.map": "/MyNBALegends/static/css/main.76871125.css.map",
     "main.b7549b2c.js.map": "/MyNBALegends/static/js/main.b7549b2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.24a6d353.css",
+    "static/css/main.76871125.css",
     "static/js/main.b7549b2c.js"
   ]
 }
